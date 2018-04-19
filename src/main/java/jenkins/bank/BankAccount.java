@@ -1,4 +1,4 @@
-package jenkins;
+package jenkins.bank;
 
 public class BankAccount {
 
